@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f4baf53a.css",
+    "main.js": "/portfolio/static/js/main.f4dd0be5.js",
+    "static/media/my-picture.png": "/portfolio/static/media/my-picture.5b2dabf3c063eb6d1275.png",
+    "static/media/featured-1.png": "/portfolio/static/media/featured-1.c34e117f2ddc1b809e5e.png",
+    "static/media/featured-2.png": "/portfolio/static/media/featured-2.5bc4ed2c06c5d83cff75.png",
+    "static/media/pizza-icon.svg": "/portfolio/static/media/pizza-icon.d0963484a14ce5671d7d72a466fafbf0.svg",
+    "static/media/linkedIn-icon.svg": "/portfolio/static/media/linkedIn-icon.8c9ce05654e1e08d52029a9093a1e258.svg",
+    "static/media/visit-icon.svg": "/portfolio/static/media/visit-icon.3098f895a92d4ab954886ad1853e8e6e.svg",
+    "static/media/github-icon.svg": "/portfolio/static/media/github-icon.59f9d5c6c0fc78598c11e8a3193ed0f2.svg",
+    "static/media/figma-icon.svg": "/portfolio/static/media/figma-icon.dcca3c42d1679b3857786db331f387dd.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/git-icon.svg": "/portfolio/static/media/git-icon.feae2be558e416175329523b213582f1.svg",
+    "static/media/code-icon.svg": "/portfolio/static/media/code-icon.e82388e285a847dacbf727d50211cd04.svg",
+    "main.f4baf53a.css.map": "/portfolio/static/css/main.f4baf53a.css.map",
+    "main.f4dd0be5.js.map": "/portfolio/static/js/main.f4dd0be5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4baf53a.css",
+    "static/js/main.f4dd0be5.js"
+  ]
+}

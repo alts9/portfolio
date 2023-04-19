@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <line x1="50" y1="10" x2="50" y2="63.3"
+    style="fill:none;stroke:#4a4a4a;stroke-linecap:round;stroke-linejoin:round" />
+  <path d="M50,63.3V76.7A13.4,13.4,0,1,1,36.7,63.3H50Z"
+    style="fill:none;stroke:#4a4a4a;stroke-linecap:round;stroke-linejoin:round" />
+  <path d="M50,63.3H36.7a13.4,13.4,0,0,1-.1-26.8H50"
+    style="fill:none;stroke:#4a4a4a;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+    d="M63.4,63.3a13.4,13.4,0,0,1-.2-26.8A13.4,13.4,0,0,1,76.7,49.9h0A13.4,13.4,0,0,1,63.4,63.3Z"
+    style="fill:none;stroke:#4a4a4a;stroke-linecap:round;stroke-linejoin:round" />
+  <path d="M36.3,10H63.8a13.2,13.2,0,1,1,0,26.4l-27.4.2A13.3,13.3,0,0,1,36.2,10Z"
+    style="fill:none;stroke:#4a4a4a;stroke-linecap:round;stroke-linejoin:round" />
+</svg>
